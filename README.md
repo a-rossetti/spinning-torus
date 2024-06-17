@@ -16,6 +16,9 @@ Adjustable parameters:
 - **Spacing**: `theta_spacing`, `phi_spacing`
 - **Perspective**: `K1`, `K2`
 
+## Visualization
+![spinning torus](torus.gif)
+
 ## License
 
 This project is licensed under the MIT License.
