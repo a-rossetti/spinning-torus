@@ -17,7 +17,10 @@ Adjustable parameters:
 - **Perspective**: `K1`, `K2`
 
 ## Visualization
-![spinning torus](https://github.com/a-rossetti/spinning-torus/blob/master/torus.mp4)
+<video width="600" controls autoplay>
+  <source src="torus.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## License
 
