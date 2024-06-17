@@ -17,7 +17,7 @@ Adjustable parameters:
 - **Perspective**: `K1`, `K2`
 
 ## Visualization
-![spinning torus](torus.mp4)
+![spinning torus](https://github.com/a-rossetti/spinning-torus/blob/master/torus.mp4)
 
 ## License
 
