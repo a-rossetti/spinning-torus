@@ -17,7 +17,7 @@ Adjustable parameters:
 - **Perspective**: `K1`, `K2`
 
 
-## Visualization
+## Watch the video
 [![Watch the video](https://img.youtube.com/vi/qIkoUbvpyqM/maxresdefault.jpg)](https://youtu.be/qIkoUbvpyqM)
 
 
