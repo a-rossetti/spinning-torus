@@ -16,11 +16,6 @@ Adjustable parameters:
 - **Spacing**: `theta_spacing`, `phi_spacing`
 - **Perspective**: `K1`, `K2`
 
-## Visualization
-<video width="600" controls autoplay>
-  <source src="https://raw.githubusercontent.com/a-rossetti/spinning-torus/master/torus.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## License
 
