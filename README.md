@@ -18,7 +18,7 @@ Adjustable parameters:
 
 
 ## Visualization
-[![spinning torus](https://img.youtube.com/vi/qIkoUbvpyqM/maxresdefault.jpg)](https://youtu.be/qIkoUbvpyqM)
+[![Watch the video](https://img.youtube.com/vi/qIkoUbvpyqM/maxresdefault.jpg)](https://youtu.be/qIkoUbvpyqM)
 
 
 ## License
