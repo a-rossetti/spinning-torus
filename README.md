@@ -17,7 +17,7 @@ Adjustable parameters:
 - **Perspective**: `K1`, `K2`
 
 ## Visualization
-![spinning torus](torus.gif)
+![spinning torus](torus.mp4)
 
 ## License
 
