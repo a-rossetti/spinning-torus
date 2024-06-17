@@ -18,7 +18,7 @@ Adjustable parameters:
 
 ## Visualization
 <video width="600" controls autoplay>
-  <source src="torus.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/a-rossetti/spinning-torus/master/torus.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
