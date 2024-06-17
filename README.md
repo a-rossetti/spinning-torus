@@ -18,10 +18,8 @@ Adjustable parameters:
 
 
 ## Visualization
-<video width="600" controls autoplay>
-  <source src="torus.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![spinning torus](https://img.youtube.com/vi/qIkoUbvpyqM/maxresdefault.jpg)](https://youtu.be/qIkoUbvpyqM)
+
 
 ## License
 
