@@ -16,6 +16,13 @@ Adjustable parameters:
 - **Spacing**: `theta_spacing`, `phi_spacing`
 - **Perspective**: `K1`, `K2`
 
+## Compile
+
+Compile script with:
+```
+g++ -o torus torus.cpp -lm -pthread
+```
+
 
 ## Watch the video
 [![Watch the video](https://img.youtube.com/vi/qIkoUbvpyqM/maxresdefault.jpg)](https://youtu.be/qIkoUbvpyqM)
