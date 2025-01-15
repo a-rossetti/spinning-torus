@@ -1,6 +1,6 @@
 # ASCII Spinning Torus
 
-This project renders an animated ASCII representation of a spinning torus using C++. The torus rotates around both the Y and Z axes, creating a dynamic visual effect.
+This project renders an animated ASCII representation of a spinning torus using C. The torus rotates around both the Y and Z axes, creating a dynamic visual effect.
 
 ## Features
 
@@ -20,7 +20,7 @@ Adjustable parameters:
 
 Compile script with:
 ```
-g++ -o torus torus.cpp -lm -pthread
+gcc -o torus torus.c -lm
 ```
 
 
@@ -31,3 +31,4 @@ g++ -o torus torus.cpp -lm -pthread
 ## License
 
 This project is licensed under the MIT License.
+
